@@ -14,3 +14,5 @@ The dev board was designed with a particular display(resistive touch) in mind an
 In interfacing the SSD1963 is used in 8080 mode(Check datasheet) and the touch sensor uses SPI protocol. For now I have added a FRC connector with all the pins that are needed to drive the board, if you want to change it be my guest.
 
 Right now I am still making modifications to the board, so expect some changes in the future and also ping me if you have any suggestions.
+
+![Development Board](SSD1963-V1.0.png)

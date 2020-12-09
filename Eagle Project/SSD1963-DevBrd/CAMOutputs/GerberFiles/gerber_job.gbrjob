@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-12-08T08:47:42Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.99,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "SSD1963-V1.0"
+        },
+        "Owner": "Himanshu Savargaonkar <savargaonkar123@gmail.com>",
+        "Size": {
+            "X": 85.7608,
+            "Y": 50
+        }
+    }
+}
